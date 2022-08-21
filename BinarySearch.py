@@ -11,4 +11,5 @@ class Solution:
             else:
                 left = pivot + 1
         
+        
         return -1
