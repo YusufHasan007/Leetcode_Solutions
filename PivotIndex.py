@@ -1,5 +1,6 @@
 class Solution:
     def pivotIndex(self, nums: List[int]) -> int:
+        
         arrSum = sum(nums) 
         rightsum = 0
         leftsum = 0
